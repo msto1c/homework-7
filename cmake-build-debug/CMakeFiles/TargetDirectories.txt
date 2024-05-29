@@ -1,0 +1,3 @@
+/Users/abduraufqarshiboyev/CLionProjects/homework-7/cmake-build-debug/CMakeFiles/homework_7.dir
+/Users/abduraufqarshiboyev/CLionProjects/homework-7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/abduraufqarshiboyev/CLionProjects/homework-7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
