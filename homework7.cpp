@@ -80,7 +80,7 @@ int main() {
     std::cout << std::endl;
     std::cout<<"Problem_4"<<std::endl;
     int m, n;
-    // Input the number of rows and columns
+    //Input the number of rows and columns
     std::cout << "Enter the number of rows: ";
     std::cin >> m;
     std::cout << "Enter the number of columns: ";
